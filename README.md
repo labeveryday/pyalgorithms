@@ -1,2 +1,3 @@
 # pyalgorithms
-Understanding the many different types of algorithms 
+
+Understanding the many different types of algorithms.
